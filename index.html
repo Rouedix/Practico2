@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Piedra, Papel o Tijera</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Piedra, Papel o Tijera</h1>
+  <div id="game-container">
+    <input type="text" id="name-input" placeholder="Ingresa tu nombre">
+    <p id="name-error" class="error-message"></p>
+    <div id="options">
+      <img class="option" id="piedra" src="piedra.jpg" alt="Piedra">
+      <img class="option" id="papel" src="papel.jpg" alt="Papel">
+      <img class="option" id="tijera" src="tijera.jpg" alt="Tijera">
+    </div>
+    <p id="result-message"></p>
+    <p id="player-score">Jugador: 0</p>
+    <p id="computer-score">PC: 0</p>
+    <button id="reset-button">Reiniciar Juego</button>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
