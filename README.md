@@ -4,7 +4,7 @@
 
 ## Cómo Jugar
 
-1. Abre el archivo `index.html` en tu navegador para iniciar el juego.
+1. Abre tu navegador predeterminado y ingresa a https://rouedix.github.io/Practico2/ para iniciar el juego.
 2. Ingresa tu nombre en el campo de texto y asegúrate de que no esté vacío.
 3. Haz clic en una de las imágenes de piedra, papel o tijera para seleccionar tu opción.
 4. ¡Espera a que el juego revele la elección del PC y el resultado de la ronda!
